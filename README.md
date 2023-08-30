@@ -1,4 +1,6 @@
-### Hi there 👋
+### turma_b_boomerang
+
+Julio Vinicius dos Santos Silva
 
 <!--
 **JulioVSilva/juliovsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
